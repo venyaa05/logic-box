@@ -25,7 +25,8 @@ Closes the program.
 
 ## 📸 Sample Output
 
-![Logic Box Output](logicbox-output.jpeg)
+<img width="729" height="603" alt="logicbox-output" src="https://github.com/user-attachments/assets/095bad15-0f7e-406f-b772-e1545c45f542" />
+
 
 ---
 
